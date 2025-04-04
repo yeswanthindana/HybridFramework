@@ -1,7 +1,0 @@
-2025-04-04 13:12:18 [TestNG-tests-1] INFO  testCases.TC1_AccountRegistrationtest - launching chrome browser
-2025-04-04 13:12:20 [TestNG-tests-1] INFO  testCases.TC1_AccountRegistrationtest - *****************STARTING TC01************************
-2025-04-04 13:12:20 [TestNG-tests-1] INFO  testCases.TC1_AccountRegistrationtest - Clicked on My account link
-2025-04-04 13:12:20 [TestNG-tests-1] INFO  testCases.TC1_AccountRegistrationtest - Providing customer details
-2025-04-04 13:12:22 [TestNG-tests-1] INFO  testCases.TC1_AccountRegistrationtest - validating message
-2025-04-04 13:12:22 [TestNG-tests-1] INFO  testCases.TC1_AccountRegistrationtest - *****************************TC01 is PASSED******************************
-2025-04-04 13:12:22 [TestNG-tests-1] INFO  testCases.TC1_AccountRegistrationtest - *****************************TC01 Finished******************************
