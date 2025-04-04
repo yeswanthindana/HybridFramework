@@ -1,0 +1,17 @@
+2025-04-04 13:45:48 [main] INFO  testCases.TC1_AccountRegistrationtest - launching chrome browser
+2025-04-04 13:45:49 [main] INFO  testCases.TC1_AccountRegistrationtest - *****************STARTING TC01************************
+2025-04-04 13:45:50 [main] INFO  testCases.TC1_AccountRegistrationtest - Clicked on My account link
+2025-04-04 13:45:50 [main] INFO  testCases.TC1_AccountRegistrationtest - Providing customer details
+2025-04-04 13:45:52 [main] INFO  testCases.TC1_AccountRegistrationtest - validating message
+2025-04-04 13:45:52 [main] INFO  testCases.TC1_AccountRegistrationtest - *****************************TC01 is PASSED******************************
+2025-04-04 13:45:52 [main] INFO  testCases.TC1_AccountRegistrationtest - *****************************TC01 Finished******************************
+2025-04-04 13:45:54 [main] INFO  testCases.TC2_Lohgintest - launching chrome browser
+2025-04-04 13:45:55 [main] INFO  testCases.TC2_Lohgintest - *******************TC02 STARTED*********************
+2025-04-04 13:45:55 [main] INFO  testCases.TC2_Lohgintest - Clicked on My Account
+2025-04-04 13:45:55 [main] INFO  testCases.TC2_Lohgintest - Clicked on Login
+2025-04-04 13:45:55 [main] INFO  testCases.TC2_Lohgintest - entered username
+2025-04-04 13:45:55 [main] INFO  testCases.TC2_Lohgintest - entered password
+2025-04-04 13:45:55 [main] INFO  testCases.TC2_Lohgintest - Clicked on Login
+2025-04-04 13:45:56 [main] INFO  testCases.TC2_Lohgintest - required page exists
+2025-04-04 13:45:56 [main] INFO  testCases.TC2_Lohgintest - *******************TC02 PASSED*********************
+2025-04-04 13:45:56 [main] INFO  testCases.TC2_Lohgintest - *******************TC02 FINISHED*********************

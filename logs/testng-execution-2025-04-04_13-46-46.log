@@ -1,0 +1,7 @@
+2025-04-04 13:46:48 [main] INFO  testCases.TC1_AccountRegistrationtest - launching chrome browser
+2025-04-04 13:46:49 [main] INFO  testCases.TC1_AccountRegistrationtest - *****************STARTING TC01************************
+2025-04-04 13:46:50 [main] INFO  testCases.TC1_AccountRegistrationtest - Clicked on My account link
+2025-04-04 13:46:50 [main] INFO  testCases.TC1_AccountRegistrationtest - Providing customer details
+2025-04-04 13:46:51 [main] INFO  testCases.TC1_AccountRegistrationtest - validating message
+2025-04-04 13:46:51 [main] INFO  testCases.TC1_AccountRegistrationtest - *****************************TC01 is PASSED******************************
+2025-04-04 13:46:51 [main] INFO  testCases.TC1_AccountRegistrationtest - *****************************TC01 Finished******************************
